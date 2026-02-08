@@ -54,9 +54,10 @@ Seaborn
 Jupyter Notebook / VS Code
 
 Internship Information :
-Company: SkillCraft Technology
+Company : SkillCraft Technology
 Internship Domain: Data Science
 Task Number: 02
-📌 Status
+ 
+ 📌 Status
 ✅ Task 02 completed successfully.
 
